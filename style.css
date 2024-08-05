@@ -1,0 +1,101 @@
+.parnt{
+width: 500px;
+height: 500px;
+background-color:rgba(255, 255, 255, 0.295);
+transform: translate(-50%,-50%);
+top: 50%;
+left: 50%;
+position: absolute;
+box-shadow: 8px 10px 10px red;
+/* filter: opacity(1); */
+border-radius: 50%;
+}
+.chile{
+
+width: 150px;
+height: 150px;
+
+position: relative;
+transform: translate(-50%,-50%);
+top: 50%;
+left: 50%;
+}
+.a{
+
+text-align: center;
+color:darkgreen;
+margin-top: 105px;
+
+
+}
+#ee{
+    margin-left: 160px;
+    margin-top: 10px;
+    height: 30px;
+    border-radius: 15px;
+    border-color: rgba(255, 255, 255, 0);
+    filter: opacity(0.5);
+}
+#dd{
+    margin-left: 160px;
+    margin-top: 15px;
+    height: 30px;
+    border-radius: 15px;
+    border-color: rgba(255, 255, 255, 0);
+    filter: opacity(0.5);
+}
+#q{
+margin-left: 160px;
+margin-top: 20px;
+color: red;
+height: 30px;
+width: 175px;
+border-radius: 30px;
+border-color: rgba(255, 255, 255, 0);
+}
+.parnt a{
+ display: flex;
+ justify-content: center;
+
+color:black;
+text-decoration: none;
+border-radius: 15px;
+border-color: rgba(255, 255, 255, 0);
+
+
+
+
+ 
+ 
+
+ 
+}
+.parnt a h2{
+    background-color: white; width: 177px; height: 33px;
+    text-align: center;
+}
+.parnt a h2:hover{
+
+background-color: aqua;
+}
+.parnt a:hover{
+    color: blue;
+}
+body{
+/* background-image:linear-gradient(to left, black 50%,blue) */
+background-image: url(Screenshot\ 2024-07-25\ 194906.png);
+    
+}
+#gg{
+    border-radius: 20px;
+    border-color: rgba(255, 255, 255, 0);
+
+}
+#ee:hover{
+filter: opacity(1);
+
+}
+#dd:hover{
+    filter: opacity(1);
+
+}
